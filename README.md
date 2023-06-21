@@ -9,3 +9,11 @@ pero es comando enciende todos pero podemos encender el que vamos a utilizar con
 ya que esta encendido depende tu tcp pones **localhost:(numero-tcp)**
 si no conocemos el tcp podemos consultarlo con nuetra terminal con comando **docker ps -a**
 ![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/flow-3/assets/136390705/7fa3a708-ee3e-4eb2-b7cc-90a5d08d326e)
+
+##MODIFICACIONES EN Node-RED
+
+como anteriormente sabemos que podemos incerta de manera facil 
+un ejemplo seria de la sig. manera 
+![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/flow-3/assets/136390705/28eccc40-e863-4757-8311-9450eea4493b)
+
+al parecer se presta para hacer modificaciones al gusto siempre y cuando sepamos lo que quere mos hacer 
