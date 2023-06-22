@@ -17,3 +17,11 @@ un ejemplo seria de la sig. manera
 ![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/flow-3/assets/136390705/28eccc40-e863-4757-8311-9450eea4493b)
 
 al parecer se presta para hacer modificaciones al gusto siempre y cuando sepamos lo que quere mos hacer 
+
+##Uso de  los siguiente contenedores Docker de MQTT, Node-Red y MySQL.
+
+ya no es necesario de encender los contenedores si no los apagastes, en mi caso siguen encendidos
+
+pimero tenemos que instalar las  bibliotecas si no sabes en  mi otro commit lo explico en **flow2**
+en este caso instalaremos la biblioteca **mysql**
+#nota:de preferencia que sean las mas actuales.
