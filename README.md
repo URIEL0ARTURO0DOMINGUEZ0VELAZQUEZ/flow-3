@@ -24,4 +24,4 @@ ya no es necesario de encender los contenedores si no los apagastes, en mi caso 
 
 pimero tenemos que instalar las  bibliotecas si no sabes en  mi otro commit lo explico en **flow2**
 en este caso instalaremos la biblioteca **mysql**
-# nota:de preferencia que sean las mas actuales.
+### nota:de preferencia que sean las mas actuales.
