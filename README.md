@@ -18,6 +18,12 @@ un ejemplo seria de la sig. manera
 
 al parecer se presta para hacer modificaciones al gusto siempre y cuando sepamos lo que quere mos hacer 
 
+okey para pode enviar informacion es el siguiente comando
+**docker exec -it id-contenedor mosquitto_pub -h ip-broker -t (name-broker) -m "texto"** 
+en la siguiente imagen se muestra como se hace en Node-RED
+![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/flow-3/assets/136390705/cf79db9c-6378-4fd8-aed9-69bdf13968a7)
+
+
 ## Uso de  los siguiente contenedores Docker de MQTT, Node-Red y MySQL.
 
 ya no es necesario de encender los contenedores si no los apagastes, en mi caso siguen encendidos
